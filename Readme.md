@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to display ASPxTextBox with different HTML5 input types
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4316)**
+**[[Run Online]](https://codecentral.devexpress.com/e4316/)**
 <!-- run online end -->
 
 
